@@ -1,4 +1,4 @@
-# Mega Creed
+# Mega Creedwds
 # [Nero Team](https://t.me/NeroTeam)
 # Install 
 ```
